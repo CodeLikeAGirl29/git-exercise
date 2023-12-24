@@ -7,3 +7,5 @@ For a full description of the project, visit the
 
 Submit bug reports and feature suggestions, or track changes in the
 [issue queue](https://www.github.com/codelikeagirl29/git-exercise#ISSUES).
+
+---
